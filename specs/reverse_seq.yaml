@@ -1,0 +1,6 @@
+id: reverse_seq
+name: Reverse integer sequence
+description: >
+  Return a seq that is the reverse of the input seq (same length, mirrored indices).
+dafny_template: problems/reverse_seq/spec.template.dfy
+placeholder: "<<<BODY>>>"

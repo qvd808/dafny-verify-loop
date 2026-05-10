@@ -1,0 +1,6 @@
+id: dafleet_tmp_tmpa2e4kb9v_0001-0050_0001-two-sum
+name: dafleet_tmp_tmpa2e4kb9v_0001-0050_0001-two-sum
+description: >
+  DafnyBench problem: dafleet_tmp_tmpa2e4kb9v_0001-0050_0001-two-sum.
+dafny_template: problems/dafleet_tmp_tmpa2e4kb9v_0001-0050_0001-two-sum/spec.template.dfy
+placeholder: "<<<BODY>>>"

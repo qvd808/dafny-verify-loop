@@ -1,0 +1,6 @@
+id: Clover_rotate
+name: Clover_rotate
+description: >
+  DafnyBench problem: Clover_rotate.
+dafny_template: problems/Clover_rotate/spec.template.dfy
+placeholder: "<<<BODY>>>"

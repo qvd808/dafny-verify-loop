@@ -1,0 +1,6 @@
+id: Clover_has_close_elements
+name: Clover_has_close_elements
+description: >
+  DafnyBench problem: Clover_has_close_elements.
+dafny_template: problems/Clover_has_close_elements/spec.template.dfy
+placeholder: "<<<BODY>>>"

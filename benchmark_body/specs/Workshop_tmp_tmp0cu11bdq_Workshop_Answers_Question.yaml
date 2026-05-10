@@ -1,0 +1,6 @@
+id: Workshop_tmp_tmp0cu11bdq_Workshop_Answers_Question
+name: Workshop_tmp_tmp0cu11bdq_Workshop_Answers_Question6
+description: >
+  DafnyBench problem: Workshop_tmp_tmp0cu11bdq_Workshop_Answers_Question6.
+dafny_template: problems/Workshop_tmp_tmp0cu11bdq_Workshop_Answers_Question/spec.template.dfy
+placeholder: "<<<BODY>>>"

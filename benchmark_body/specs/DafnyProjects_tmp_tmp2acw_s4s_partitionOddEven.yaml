@@ -1,0 +1,6 @@
+id: DafnyProjects_tmp_tmp2acw_s4s_partitionOddEven
+name: DafnyProjects_tmp_tmp2acw_s4s_partitionOddEven
+description: >
+  DafnyBench problem: DafnyProjects_tmp_tmp2acw_s4s_partitionOddEven.
+dafny_template: problems/DafnyProjects_tmp_tmp2acw_s4s_partitionOddEven/spec.template.dfy
+placeholder: "<<<BODY>>>"

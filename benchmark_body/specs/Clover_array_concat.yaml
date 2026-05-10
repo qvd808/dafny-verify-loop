@@ -1,0 +1,6 @@
+id: Clover_array_concat
+name: Clover_array_concat
+description: >
+  DafnyBench problem: Clover_array_concat.
+dafny_template: problems/Clover_array_concat/spec.template.dfy
+placeholder: "<<<BODY>>>"

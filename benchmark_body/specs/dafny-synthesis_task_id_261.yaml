@@ -1,0 +1,6 @@
+id: dafny-synthesis_task_id_261
+name: dafny-synthesis_task_id_261
+description: >
+  DafnyBench problem: dafny-synthesis_task_id_261.
+dafny_template: problems/dafny-synthesis_task_id_261/spec.template.dfy
+placeholder: "<<<BODY>>>"

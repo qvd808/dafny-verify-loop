@@ -1,0 +1,6 @@
+id: MIEIC_mfes_tmp_tmpq3ho7nve_exams_appeal_20_p4
+name: MIEIC_mfes_tmp_tmpq3ho7nve_exams_appeal_20_p4
+description: >
+  DafnyBench problem: MIEIC_mfes_tmp_tmpq3ho7nve_exams_appeal_20_p4.
+dafny_template: problems/MIEIC_mfes_tmp_tmpq3ho7nve_exams_appeal_20_p4/spec.template.dfy
+placeholder: "<<<BODY>>>"

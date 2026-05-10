@@ -1,0 +1,6 @@
+id: Clover_count_lessthan
+name: Clover_count_lessthan
+description: >
+  DafnyBench problem: Clover_count_lessthan.
+dafny_template: problems/Clover_count_lessthan/spec.template.dfy
+placeholder: "<<<BODY>>>"

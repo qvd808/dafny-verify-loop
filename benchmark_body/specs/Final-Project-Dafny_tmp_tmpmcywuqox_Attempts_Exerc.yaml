@@ -1,0 +1,6 @@
+id: Final-Project-Dafny_tmp_tmpmcywuqox_Attempts_Exerc
+name: Final-Project-Dafny_tmp_tmpmcywuqox_Attempts_Exercise6_Binary_Search
+description: >
+  DafnyBench problem: Final-Project-Dafny_tmp_tmpmcywuqox_Attempts_Exercise6_Binary_Search.
+dafny_template: problems/Final-Project-Dafny_tmp_tmpmcywuqox_Attempts_Exerc/spec.template.dfy
+placeholder: "<<<BODY>>>"

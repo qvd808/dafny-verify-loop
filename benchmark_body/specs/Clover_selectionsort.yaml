@@ -1,0 +1,6 @@
+id: Clover_selectionsort
+name: Clover_selectionsort
+description: >
+  DafnyBench problem: Clover_selectionsort.
+dafny_template: problems/Clover_selectionsort/spec.template.dfy
+placeholder: "<<<BODY>>>"

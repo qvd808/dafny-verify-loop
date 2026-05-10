@@ -1,0 +1,6 @@
+id: Software-Verification_tmp_tmpv4ueky2d_Counting_Bit
+name: Software-Verification_tmp_tmpv4ueky2d_Counting Bits_counting_bits
+description: >
+  DafnyBench problem: Software-Verification_tmp_tmpv4ueky2d_Counting Bits_counting_bits.
+dafny_template: problems/Software-Verification_tmp_tmpv4ueky2d_Counting_Bit/spec.template.dfy
+placeholder: "<<<BODY>>>"

@@ -1,0 +1,6 @@
+id: Software-Verification_tmp_tmpv4ueky2d_Best_Time_to
+name: Software-Verification_tmp_tmpv4ueky2d_Best Time to Buy and Sell Stock_best_time_
+description: >
+  DafnyBench problem: Software-Verification_tmp_tmpv4ueky2d_Best Time to Buy and Sell Stock_best_time_to_buy_and_sell_stoc.
+dafny_template: problems/Software-Verification_tmp_tmpv4ueky2d_Best_Time_to/spec.template.dfy
+placeholder: "<<<BODY>>>"

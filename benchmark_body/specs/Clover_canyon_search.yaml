@@ -1,0 +1,6 @@
+id: Clover_canyon_search
+name: Clover_canyon_search
+description: >
+  DafnyBench problem: Clover_canyon_search.
+dafny_template: problems/Clover_canyon_search/spec.template.dfy
+placeholder: "<<<BODY>>>"

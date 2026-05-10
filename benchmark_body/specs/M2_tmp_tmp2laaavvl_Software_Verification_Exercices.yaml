@@ -1,0 +1,6 @@
+id: M2_tmp_tmp2laaavvl_Software_Verification_Exercices
+name: M2_tmp_tmp2laaavvl_Software Verification_Exercices_Exo9-Carre
+description: >
+  DafnyBench problem: M2_tmp_tmp2laaavvl_Software Verification_Exercices_Exo9-Carre.
+dafny_template: problems/M2_tmp_tmp2laaavvl_Software_Verification_Exercices/spec.template.dfy
+placeholder: "<<<BODY>>>"

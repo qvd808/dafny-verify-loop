@@ -1,0 +1,6 @@
+id: Clover_cal_sum
+name: Clover_cal_sum
+description: >
+  DafnyBench problem: Clover_cal_sum.
+dafny_template: problems/Clover_cal_sum/spec.template.dfy
+placeholder: "<<<BODY>>>"

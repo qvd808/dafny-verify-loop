@@ -1,0 +1,6 @@
+id: Software-Verification_tmp_tmpv4ueky2d_Remove_Eleme
+name: Software-Verification_tmp_tmpv4ueky2d_Remove Element_remove_element
+description: >
+  DafnyBench problem: Software-Verification_tmp_tmpv4ueky2d_Remove Element_remove_element.
+dafny_template: problems/Software-Verification_tmp_tmpv4ueky2d_Remove_Eleme/spec.template.dfy
+placeholder: "<<<BODY>>>"

@@ -1,0 +1,6 @@
+id: t1_MF_tmp_tmpi_sqie4j_exemplos_colecoes_arrays_ex5
+name: t1_MF_tmp_tmpi_sqie4j_exemplos_colecoes_arrays_ex5
+description: >
+  DafnyBench problem: t1_MF_tmp_tmpi_sqie4j_exemplos_colecoes_arrays_ex5.
+dafny_template: problems/t1_MF_tmp_tmpi_sqie4j_exemplos_colecoes_arrays_ex5/spec.template.dfy
+placeholder: "<<<BODY>>>"

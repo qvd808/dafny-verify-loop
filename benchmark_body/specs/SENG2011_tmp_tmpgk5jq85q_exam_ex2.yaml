@@ -1,0 +1,6 @@
+id: SENG2011_tmp_tmpgk5jq85q_exam_ex2
+name: SENG2011_tmp_tmpgk5jq85q_exam_ex2
+description: >
+  DafnyBench problem: SENG2011_tmp_tmpgk5jq85q_exam_ex2.
+dafny_template: problems/SENG2011_tmp_tmpgk5jq85q_exam_ex2/spec.template.dfy
+placeholder: "<<<BODY>>>"

@@ -1,0 +1,6 @@
+id: dafny-exercise_tmp_tmpouftptir_maxArray
+name: dafny-exercise_tmp_tmpouftptir_maxArray
+description: >
+  DafnyBench problem: dafny-exercise_tmp_tmpouftptir_maxArray.
+dafny_template: problems/dafny-exercise_tmp_tmpouftptir_maxArray/spec.template.dfy
+placeholder: "<<<BODY>>>"

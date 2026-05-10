@@ -1,0 +1,6 @@
+id: dafny-duck_tmp_tmplawbgxjo_p1
+name: dafny-duck_tmp_tmplawbgxjo_p1
+description: >
+  DafnyBench problem: dafny-duck_tmp_tmplawbgxjo_p1.
+dafny_template: problems/dafny-duck_tmp_tmplawbgxjo_p1/spec.template.dfy
+placeholder: "<<<BODY>>>"

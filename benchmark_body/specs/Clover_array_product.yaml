@@ -1,0 +1,6 @@
+id: Clover_array_product
+name: Clover_array_product
+description: >
+  DafnyBench problem: Clover_array_product.
+dafny_template: problems/Clover_array_product/spec.template.dfy
+placeholder: "<<<BODY>>>"

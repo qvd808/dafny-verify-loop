@@ -1,0 +1,6 @@
+id: Dafny_Verify_tmp_tmphq7j0row_Fine_Tune_Examples_50
+name: Dafny_Verify_tmp_tmphq7j0row_Fine_Tune_Examples_50_examples_BinarySearch
+description: >
+  DafnyBench problem: Dafny_Verify_tmp_tmphq7j0row_Fine_Tune_Examples_50_examples_BinarySearch.
+dafny_template: problems/Dafny_Verify_tmp_tmphq7j0row_Fine_Tune_Examples_50/spec.template.dfy
+placeholder: "<<<BODY>>>"

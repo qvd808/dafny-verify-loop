@@ -1,0 +1,6 @@
+id: Prog-Fun-Solutions_tmp_tmp7_gmnz5f_mockExam2_p5
+name: Prog-Fun-Solutions_tmp_tmp7_gmnz5f_mockExam2_p5
+description: >
+  DafnyBench problem: Prog-Fun-Solutions_tmp_tmp7_gmnz5f_mockExam2_p5.
+dafny_template: problems/Prog-Fun-Solutions_tmp_tmp7_gmnz5f_mockExam2_p5/spec.template.dfy
+placeholder: "<<<BODY>>>"

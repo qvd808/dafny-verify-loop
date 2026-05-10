@@ -1,0 +1,6 @@
+id: metodosFormais_tmp_tmp4q2kmya4_T1-MetodosFormais_e
+name: metodosFormais_tmp_tmp4q2kmya4_T1-MetodosFormais_examples_ex1
+description: >
+  DafnyBench problem: metodosFormais_tmp_tmp4q2kmya4_T1-MetodosFormais_examples_ex1.
+dafny_template: problems/metodosFormais_tmp_tmp4q2kmya4_T1-MetodosFormais_e/spec.template.dfy
+placeholder: "<<<BODY>>>"

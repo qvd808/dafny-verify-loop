@@ -1,0 +1,6 @@
+id: dafny-language-server_tmp_tmpkir0kenl_Test_dafny1_
+name: dafny-language-server_tmp_tmpkir0kenl_Test_dafny1_Cubes
+description: >
+  DafnyBench problem: dafny-language-server_tmp_tmpkir0kenl_Test_dafny1_Cubes.
+dafny_template: problems/dafny-language-server_tmp_tmpkir0kenl_Test_dafny1_/spec.template.dfy
+placeholder: "<<<BODY>>>"

@@ -1,0 +1,6 @@
+id: Clover_seq_to_array
+name: Clover_seq_to_array
+description: >
+  DafnyBench problem: Clover_seq_to_array.
+dafny_template: problems/Clover_seq_to_array/spec.template.dfy
+placeholder: "<<<BODY>>>"

@@ -1,0 +1,6 @@
+id: Dafny_Verify_tmp_tmphq7j0row_Generated_Code_Minimu
+name: Dafny_Verify_tmp_tmphq7j0row_Generated_Code_Minimum
+description: >
+  DafnyBench problem: Dafny_Verify_tmp_tmphq7j0row_Generated_Code_Minimum.
+dafny_template: problems/Dafny_Verify_tmp_tmphq7j0row_Generated_Code_Minimu/spec.template.dfy
+placeholder: "<<<BODY>>>"

@@ -1,0 +1,6 @@
+id: Clover_is_palindrome
+name: Clover_is_palindrome
+description: >
+  DafnyBench problem: Clover_is_palindrome.
+dafny_template: problems/Clover_is_palindrome/spec.template.dfy
+placeholder: "<<<BODY>>>"

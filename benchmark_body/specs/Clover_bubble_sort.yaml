@@ -1,0 +1,6 @@
+id: Clover_bubble_sort
+name: Clover_bubble_sort
+description: >
+  DafnyBench problem: Clover_bubble_sort.
+dafny_template: problems/Clover_bubble_sort/spec.template.dfy
+placeholder: "<<<BODY>>>"

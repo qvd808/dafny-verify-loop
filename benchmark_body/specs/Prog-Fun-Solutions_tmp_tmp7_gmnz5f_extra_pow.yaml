@@ -1,0 +1,6 @@
+id: Prog-Fun-Solutions_tmp_tmp7_gmnz5f_extra_pow
+name: Prog-Fun-Solutions_tmp_tmp7_gmnz5f_extra_pow
+description: >
+  DafnyBench problem: Prog-Fun-Solutions_tmp_tmp7_gmnz5f_extra_pow.
+dafny_template: problems/Prog-Fun-Solutions_tmp_tmp7_gmnz5f_extra_pow/spec.template.dfy
+placeholder: "<<<BODY>>>"

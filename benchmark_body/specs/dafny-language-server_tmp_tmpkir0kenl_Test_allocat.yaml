@@ -1,0 +1,6 @@
+id: dafny-language-server_tmp_tmpkir0kenl_Test_allocat
+name: dafny-language-server_tmp_tmpkir0kenl_Test_allocated1_dafny0_fun-with-slices
+description: >
+  DafnyBench problem: dafny-language-server_tmp_tmpkir0kenl_Test_allocated1_dafny0_fun-with-slices.
+dafny_template: problems/dafny-language-server_tmp_tmpkir0kenl_Test_allocat/spec.template.dfy
+placeholder: "<<<BODY>>>"

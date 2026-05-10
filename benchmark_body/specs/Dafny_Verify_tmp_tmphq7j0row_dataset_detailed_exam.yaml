@@ -1,0 +1,6 @@
+id: Dafny_Verify_tmp_tmphq7j0row_dataset_detailed_exam
+name: Dafny_Verify_tmp_tmphq7j0row_dataset_detailed_examples_SelectionSort
+description: >
+  DafnyBench problem: Dafny_Verify_tmp_tmphq7j0row_dataset_detailed_examples_SelectionSort.
+dafny_template: problems/Dafny_Verify_tmp_tmphq7j0row_dataset_detailed_exam/spec.template.dfy
+placeholder: "<<<BODY>>>"

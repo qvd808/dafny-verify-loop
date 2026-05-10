@@ -1,0 +1,6 @@
+id: se2011_tmp_tmp71eb82zt_ass1_ex4
+name: se2011_tmp_tmp71eb82zt_ass1_ex4
+description: >
+  DafnyBench problem: se2011_tmp_tmp71eb82zt_ass1_ex4.
+dafny_template: problems/se2011_tmp_tmp71eb82zt_ass1_ex4/spec.template.dfy
+placeholder: "<<<BODY>>>"

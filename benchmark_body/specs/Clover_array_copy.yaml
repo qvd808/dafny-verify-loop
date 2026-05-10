@@ -1,0 +1,6 @@
+id: Clover_array_copy
+name: Clover_array_copy
+description: >
+  DafnyBench problem: Clover_array_copy.
+dafny_template: problems/Clover_array_copy/spec.template.dfy
+placeholder: "<<<BODY>>>"

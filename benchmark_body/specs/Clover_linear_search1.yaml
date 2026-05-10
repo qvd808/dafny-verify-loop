@@ -1,0 +1,6 @@
+id: Clover_linear_search1
+name: Clover_linear_search1
+description: >
+  DafnyBench problem: Clover_linear_search1.
+dafny_template: problems/Clover_linear_search1/spec.template.dfy
+placeholder: "<<<BODY>>>"

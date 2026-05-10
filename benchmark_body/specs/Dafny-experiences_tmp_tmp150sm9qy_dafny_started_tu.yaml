@@ -1,0 +1,6 @@
+id: Dafny-experiences_tmp_tmp150sm9qy_dafny_started_tu
+name: Dafny-experiences_tmp_tmp150sm9qy_dafny_started_tutorial_dafny_tutorial_array
+description: >
+  DafnyBench problem: Dafny-experiences_tmp_tmp150sm9qy_dafny_started_tutorial_dafny_tutorial_array.
+dafny_template: problems/Dafny-experiences_tmp_tmp150sm9qy_dafny_started_tu/spec.template.dfy
+placeholder: "<<<BODY>>>"

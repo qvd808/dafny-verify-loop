@@ -1,0 +1,6 @@
+id: HATRA-2022-Paper_tmp_tmp5texxy8l_copilot_verificat
+name: HATRA-2022-Paper_tmp_tmp5texxy8l_copilot_verification_Two Sum_two_sum
+description: >
+  DafnyBench problem: HATRA-2022-Paper_tmp_tmp5texxy8l_copilot_verification_Two Sum_two_sum.
+dafny_template: problems/HATRA-2022-Paper_tmp_tmp5texxy8l_copilot_verificat/spec.template.dfy
+placeholder: "<<<BODY>>>"

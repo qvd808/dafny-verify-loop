@@ -1,0 +1,6 @@
+id: dafny-exercise_tmp_tmpouftptir_appendArray
+name: dafny-exercise_tmp_tmpouftptir_appendArray
+description: >
+  DafnyBench problem: dafny-exercise_tmp_tmpouftptir_appendArray.
+dafny_template: problems/dafny-exercise_tmp_tmpouftptir_appendArray/spec.template.dfy
+placeholder: "<<<BODY>>>"

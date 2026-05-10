@@ -1,0 +1,6 @@
+id: dafny_examples_tmp_tmp8qotd4ez_leetcode_0001-two-s
+name: dafny_examples_tmp_tmp8qotd4ez_leetcode_0001-two-sum
+description: >
+  DafnyBench problem: dafny_examples_tmp_tmp8qotd4ez_leetcode_0001-two-sum.
+dafny_template: problems/dafny_examples_tmp_tmp8qotd4ez_leetcode_0001-two-s/spec.template.dfy
+placeholder: "<<<BODY>>>"

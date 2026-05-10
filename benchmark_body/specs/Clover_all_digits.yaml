@@ -1,0 +1,6 @@
+id: Clover_all_digits
+name: Clover_all_digits
+description: >
+  DafnyBench problem: Clover_all_digits.
+dafny_template: problems/Clover_all_digits/spec.template.dfy
+placeholder: "<<<BODY>>>"

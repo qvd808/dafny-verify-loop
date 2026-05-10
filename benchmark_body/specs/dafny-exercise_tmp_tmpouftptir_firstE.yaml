@@ -1,0 +1,6 @@
+id: dafny-exercise_tmp_tmpouftptir_firstE
+name: dafny-exercise_tmp_tmpouftptir_firstE
+description: >
+  DafnyBench problem: dafny-exercise_tmp_tmpouftptir_firstE.
+dafny_template: problems/dafny-exercise_tmp_tmpouftptir_firstE/spec.template.dfy
+placeholder: "<<<BODY>>>"

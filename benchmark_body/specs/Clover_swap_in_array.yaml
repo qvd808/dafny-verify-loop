@@ -1,0 +1,6 @@
+id: Clover_swap_in_array
+name: Clover_swap_in_array
+description: >
+  DafnyBench problem: Clover_swap_in_array.
+dafny_template: problems/Clover_swap_in_array/spec.template.dfy
+placeholder: "<<<BODY>>>"

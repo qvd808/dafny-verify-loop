@@ -1,0 +1,6 @@
+id: Clover_quotient
+name: Clover_quotient
+description: >
+  DafnyBench problem: Clover_quotient.
+dafny_template: problems/Clover_quotient/spec.template.dfy
+placeholder: "<<<BODY>>>"

@@ -1,0 +1,6 @@
+id: Clover_update_map
+name: Clover_update_map
+description: >
+  DafnyBench problem: Clover_update_map.
+dafny_template: problems/Clover_update_map/spec.template.dfy
+placeholder: "<<<BODY>>>"

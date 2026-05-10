@@ -1,0 +1,6 @@
+id: Dafny_Verify_tmp_tmphq7j0row_AI_agent_verify_examp
+name: Dafny_Verify_tmp_tmphq7j0row_AI_agent_verify_examples_RotateRight
+description: >
+  DafnyBench problem: Dafny_Verify_tmp_tmphq7j0row_AI_agent_verify_examples_RotateRight.
+dafny_template: problems/Dafny_Verify_tmp_tmphq7j0row_AI_agent_verify_examp/spec.template.dfy
+placeholder: "<<<BODY>>>"

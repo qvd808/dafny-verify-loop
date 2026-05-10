@@ -1,0 +1,6 @@
+id: Clover_max_array
+name: Clover_max_array
+description: >
+  DafnyBench problem: Clover_max_array.
+dafny_template: problems/Clover_max_array/spec.template.dfy
+placeholder: "<<<BODY>>>"

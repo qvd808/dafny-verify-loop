@@ -1,0 +1,6 @@
+id: Metodos_Formais_tmp_tmpbez22nnn_Aula_2_ex1
+name: Metodos_Formais_tmp_tmpbez22nnn_Aula_2_ex1
+description: >
+  DafnyBench problem: Metodos_Formais_tmp_tmpbez22nnn_Aula_2_ex1.
+dafny_template: problems/Metodos_Formais_tmp_tmpbez22nnn_Aula_2_ex1/spec.template.dfy
+placeholder: "<<<BODY>>>"

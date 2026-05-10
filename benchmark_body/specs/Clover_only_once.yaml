@@ -1,0 +1,6 @@
+id: Clover_only_once
+name: Clover_only_once
+description: >
+  DafnyBench problem: Clover_only_once.
+dafny_template: problems/Clover_only_once/spec.template.dfy
+placeholder: "<<<BODY>>>"

@@ -1,0 +1,6 @@
+id: Dafny_Verify_tmp_tmphq7j0row_Generated_Code_rand
+name: Dafny_Verify_tmp_tmphq7j0row_Generated_Code_rand
+description: >
+  DafnyBench problem: Dafny_Verify_tmp_tmphq7j0row_Generated_Code_rand.
+dafny_template: problems/Dafny_Verify_tmp_tmphq7j0row_Generated_Code_rand/spec.template.dfy
+placeholder: "<<<BODY>>>"

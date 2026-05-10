@@ -1,0 +1,6 @@
+id: Dafny-Projects_tmp_tmph399drhy_p2_arraySplit
+name: Dafny-Projects_tmp_tmph399drhy_p2_arraySplit
+description: >
+  DafnyBench problem: Dafny-Projects_tmp_tmph399drhy_p2_arraySplit.
+dafny_template: problems/Dafny-Projects_tmp_tmph399drhy_p2_arraySplit/spec.template.dfy
+placeholder: "<<<BODY>>>"

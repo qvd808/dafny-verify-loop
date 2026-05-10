@@ -1,0 +1,6 @@
+id: Software-Verification_tmp_tmpv4ueky2d_Contains_Dup
+name: Software-Verification_tmp_tmpv4ueky2d_Contains Duplicate_contains_duplicate
+description: >
+  DafnyBench problem: Software-Verification_tmp_tmpv4ueky2d_Contains Duplicate_contains_duplicate.
+dafny_template: problems/Software-Verification_tmp_tmpv4ueky2d_Contains_Dup/spec.template.dfy
+placeholder: "<<<BODY>>>"

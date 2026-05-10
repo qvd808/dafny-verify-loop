@@ -1,0 +1,6 @@
+id: Clover_binary_search
+name: Clover_binary_search
+description: >
+  DafnyBench problem: Clover_binary_search.
+dafny_template: problems/Clover_binary_search/spec.template.dfy
+placeholder: "<<<BODY>>>"

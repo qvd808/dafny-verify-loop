@@ -1,0 +1,6 @@
+id: Clover_slope_search
+name: Clover_slope_search
+description: >
+  DafnyBench problem: Clover_slope_search.
+dafny_template: problems/Clover_slope_search/spec.template.dfy
+placeholder: "<<<BODY>>>"

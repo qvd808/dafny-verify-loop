@@ -1,0 +1,6 @@
+id: MFS_tmp_tmpmmnu354t_Testes_anteriores_T2_ex5_2020_
+name: MFS_tmp_tmpmmnu354t_Testes anteriores_T2_ex5_2020_2
+description: >
+  DafnyBench problem: MFS_tmp_tmpmmnu354t_Testes anteriores_T2_ex5_2020_2.
+dafny_template: problems/MFS_tmp_tmpmmnu354t_Testes_anteriores_T2_ex5_2020_/spec.template.dfy
+placeholder: "<<<BODY>>>"

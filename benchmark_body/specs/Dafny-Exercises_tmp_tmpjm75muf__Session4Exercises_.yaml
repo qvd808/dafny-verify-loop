@@ -1,0 +1,6 @@
+id: Dafny-Exercises_tmp_tmpjm75muf__Session4Exercises_
+name: Dafny-Exercises_tmp_tmpjm75muf__Session4Exercises_ExercisefirstZero
+description: >
+  DafnyBench problem: Dafny-Exercises_tmp_tmpjm75muf__Session4Exercises_ExercisefirstZero.
+dafny_template: problems/Dafny-Exercises_tmp_tmpjm75muf__Session4Exercises_/spec.template.dfy
+placeholder: "<<<BODY>>>"

@@ -1,0 +1,6 @@
+id: Clover_online_max
+name: Clover_online_max
+description: >
+  DafnyBench problem: Clover_online_max.
+dafny_template: problems/Clover_online_max/spec.template.dfy
+placeholder: "<<<BODY>>>"

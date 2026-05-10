@@ -1,0 +1,6 @@
+id: Clover_min_array
+name: Clover_min_array
+description: >
+  DafnyBench problem: Clover_min_array.
+dafny_template: problems/Clover_min_array/spec.template.dfy
+placeholder: "<<<BODY>>>"

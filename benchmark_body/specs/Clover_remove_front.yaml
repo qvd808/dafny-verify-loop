@@ -1,0 +1,6 @@
+id: Clover_remove_front
+name: Clover_remove_front
+description: >
+  DafnyBench problem: Clover_remove_front.
+dafny_template: problems/Clover_remove_front/spec.template.dfy
+placeholder: "<<<BODY>>>"

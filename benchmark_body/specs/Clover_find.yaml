@@ -1,0 +1,6 @@
+id: Clover_find
+name: Clover_find
+description: >
+  DafnyBench problem: Clover_find.
+dafny_template: problems/Clover_find/spec.template.dfy
+placeholder: "<<<BODY>>>"

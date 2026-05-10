@@ -1,0 +1,6 @@
+id: Final-Project-Dafny_tmp_tmpmcywuqox_Attempts_Selec
+name: Final-Project-Dafny_tmp_tmpmcywuqox_Attempts_Selection_Sort_Standard
+description: >
+  DafnyBench problem: Final-Project-Dafny_tmp_tmpmcywuqox_Attempts_Selection_Sort_Standard.
+dafny_template: problems/Final-Project-Dafny_tmp_tmpmcywuqox_Attempts_Selec/spec.template.dfy
+placeholder: "<<<BODY>>>"

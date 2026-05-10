@@ -1,0 +1,6 @@
+id: DafnyProjects_tmp_tmp2acw_s4s_findMax
+name: DafnyProjects_tmp_tmp2acw_s4s_findMax
+description: >
+  DafnyBench problem: DafnyProjects_tmp_tmp2acw_s4s_findMax.
+dafny_template: problems/DafnyProjects_tmp_tmp2acw_s4s_findMax/spec.template.dfy
+placeholder: "<<<BODY>>>"

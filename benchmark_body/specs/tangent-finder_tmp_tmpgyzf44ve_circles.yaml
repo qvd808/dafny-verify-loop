@@ -1,0 +1,6 @@
+id: tangent-finder_tmp_tmpgyzf44ve_circles
+name: tangent-finder_tmp_tmpgyzf44ve_circles
+description: >
+  DafnyBench problem: tangent-finder_tmp_tmpgyzf44ve_circles.
+dafny_template: problems/tangent-finder_tmp_tmpgyzf44ve_circles/spec.template.dfy
+placeholder: "<<<BODY>>>"

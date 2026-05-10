@@ -1,0 +1,6 @@
+id: Clover_modify_2d_array
+name: Clover_modify_2d_array
+description: >
+  DafnyBench problem: Clover_modify_2d_array.
+dafny_template: problems/Clover_modify_2d_array/spec.template.dfy
+placeholder: "<<<BODY>>>"

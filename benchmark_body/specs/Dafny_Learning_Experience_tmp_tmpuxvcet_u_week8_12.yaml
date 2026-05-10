@@ -1,0 +1,6 @@
+id: Dafny_Learning_Experience_tmp_tmpuxvcet_u_week8_12
+name: Dafny_Learning_Experience_tmp_tmpuxvcet_u_week8_12_week10_ExtensibleArray
+description: >
+  DafnyBench problem: Dafny_Learning_Experience_tmp_tmpuxvcet_u_week8_12_week10_ExtensibleArray.
+dafny_template: problems/Dafny_Learning_Experience_tmp_tmpuxvcet_u_week8_12/spec.template.dfy
+placeholder: "<<<BODY>>>"

@@ -1,0 +1,6 @@
+id: Metodos_Formais_tmp_tmpql2hwcsh_Invariantes_multip
+name: Metodos_Formais_tmp_tmpql2hwcsh_Invariantes_multiplicador
+description: >
+  DafnyBench problem: Metodos_Formais_tmp_tmpql2hwcsh_Invariantes_multiplicador.
+dafny_template: problems/Metodos_Formais_tmp_tmpql2hwcsh_Invariantes_multip/spec.template.dfy
+placeholder: "<<<BODY>>>"

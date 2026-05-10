@@ -1,0 +1,6 @@
+id: Clover_convert_map_key
+name: Clover_convert_map_key
+description: >
+  DafnyBench problem: Clover_convert_map_key.
+dafny_template: problems/Clover_convert_map_key/spec.template.dfy
+placeholder: "<<<BODY>>>"

@@ -1,0 +1,138 @@
+[
+  {
+    "id": "703FinalProject_tmp_tmpr_10rn4z_gaussian",
+    "type": "linear_scan",
+    "has_body": true,
+    "needs_invariants": true,
+    "hints_file": "703FinalProject_tmp_tmpr_10rn4z_gaussian_no_hints.dfy",
+    "ground_file": "703FinalProject_tmp_tmpr_10rn4z_gaussian_ground.dfy"
+  },
+  {
+    "id": "CVS-Projto1_tmp_tmpb1o0bu8z_fact",
+    "type": "linear_scan",
+    "has_body": false,
+    "needs_invariants": true,
+    "hints_file": "CVS-Projto1_tmp_tmpb1o0bu8z_fact_no_hints.dfy",
+    "ground_file": "CVS-Projto1_tmp_tmpb1o0bu8z_fact_ground.dfy"
+  },
+  {
+    "id": "CVS-handout1_tmp_tmptm52no3k_1",
+    "type": "linear_scan",
+    "has_body": true,
+    "needs_invariants": true,
+    "hints_file": "CVS-handout1_tmp_tmptm52no3k_1_no_hints.dfy",
+    "ground_file": "CVS-handout1_tmp_tmptm52no3k_1_ground.dfy"
+  },
+  {
+    "id": "Clover_all_digits",
+    "type": "linear_scan",
+    "has_body": true,
+    "needs_invariants": true,
+    "hints_file": "Clover_all_digits_no_hints.dfy",
+    "ground_file": "Clover_all_digits_ground.dfy"
+  },
+  {
+    "id": "Clover_array_append",
+    "type": "linear_scan",
+    "has_body": true,
+    "needs_invariants": true,
+    "hints_file": "Clover_array_append_no_hints.dfy",
+    "ground_file": "Clover_array_append_ground.dfy"
+  },
+  {
+    "id": "Clover_array_concat",
+    "type": "linear_scan",
+    "has_body": true,
+    "needs_invariants": true,
+    "hints_file": "Clover_array_concat_no_hints.dfy",
+    "ground_file": "Clover_array_concat_ground.dfy"
+  },
+  {
+    "id": "630-dafny_tmp_tmpz2kokaiq_Solution",
+    "type": "binary_search",
+    "has_body": true,
+    "needs_invariants": true,
+    "hints_file": "630-dafny_tmp_tmpz2kokaiq_Solution_no_hints.dfy",
+    "ground_file": "630-dafny_tmp_tmpz2kokaiq_Solution_ground.dfy"
+  },
+  {
+    "id": "Clover_binary_search",
+    "type": "binary_search",
+    "has_body": true,
+    "needs_invariants": true,
+    "hints_file": "Clover_binary_search_no_hints.dfy",
+    "ground_file": "Clover_binary_search_ground.dfy"
+  },
+  {
+    "id": "Correctness_tmp_tmpwqvg5q_4_Sorting_Tangent",
+    "type": "binary_search",
+    "has_body": true,
+    "needs_invariants": true,
+    "hints_file": "Correctness_tmp_tmpwqvg5q_4_Sorting_Tangent_no_hints.dfy",
+    "ground_file": "Correctness_tmp_tmpwqvg5q_4_Sorting_Tangent_ground.dfy"
+  },
+  {
+    "id": "Dafny-Exercises_tmp_tmpjm75muf__Session2Exercises_ExerciseFi",
+    "type": "nested_loop",
+    "has_body": true,
+    "needs_invariants": true,
+    "hints_file": "Dafny-Exercises_tmp_tmpjm75muf__Session2Exercises_ExerciseFi_no_hints.dfy",
+    "ground_file": "Dafny-Exercises_tmp_tmpjm75muf__Session2Exercises_ExerciseFi_ground.dfy"
+  },
+  {
+    "id": "Clover_bubble_sort",
+    "type": "sorting",
+    "has_body": true,
+    "needs_invariants": true,
+    "hints_file": "Clover_bubble_sort_no_hints.dfy",
+    "ground_file": "Clover_bubble_sort_ground.dfy"
+  },
+  {
+    "id": "CS5232_Project_tmp_tmpai_cfrng_test",
+    "type": "nested_loop",
+    "has_body": true,
+    "needs_invariants": true,
+    "hints_file": "CS5232_Project_tmp_tmpai_cfrng_test_no_hints.dfy",
+    "ground_file": "CS5232_Project_tmp_tmpai_cfrng_test_ground.dfy"
+  },
+  {
+    "id": "CSU55004---Formal-Verification_tmp_tmp4ki9iaqy_Project_Proje",
+    "type": "nested_loop",
+    "has_body": true,
+    "needs_invariants": true,
+    "hints_file": "CSU55004---Formal-Verification_tmp_tmp4ki9iaqy_Project_Proje_no_hints.dfy",
+    "ground_file": "CSU55004---Formal-Verification_tmp_tmp4ki9iaqy_Project_Proje_ground.dfy"
+  },
+  {
+    "id": "Programmverifikation-und-synthese_tmp_tmppurk6ime_PVS_Assign",
+    "type": "math",
+    "has_body": true,
+    "needs_invariants": true,
+    "hints_file": "Programmverifikation-und-synthese_tmp_tmppurk6ime_PVS_Assign_no_hints.dfy",
+    "ground_file": "Programmverifikation-und-synthese_tmp_tmppurk6ime_PVS_Assign_ground.dfy"
+  },
+  {
+    "id": "CSC8204-Dafny_tmp_tmp11yhjb53_stack",
+    "type": "simple",
+    "has_body": true,
+    "needs_invariants": false,
+    "hints_file": "CSC8204-Dafny_tmp_tmp11yhjb53_stack_no_hints.dfy",
+    "ground_file": "CSC8204-Dafny_tmp_tmp11yhjb53_stack_ground.dfy"
+  },
+  {
+    "id": "Clover_abs",
+    "type": "simple",
+    "has_body": false,
+    "needs_invariants": false,
+    "hints_file": "Clover_abs_no_hints.dfy",
+    "ground_file": "Clover_abs_ground.dfy"
+  },
+  {
+    "id": "Clover_avg",
+    "type": "simple",
+    "has_body": true,
+    "needs_invariants": false,
+    "hints_file": "Clover_avg_no_hints.dfy",
+    "ground_file": "Clover_avg_ground.dfy"
+  }
+]

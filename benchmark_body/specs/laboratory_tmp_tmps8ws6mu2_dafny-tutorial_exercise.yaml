@@ -1,0 +1,6 @@
+id: laboratory_tmp_tmps8ws6mu2_dafny-tutorial_exercise
+name: laboratory_tmp_tmps8ws6mu2_dafny-tutorial_exercise12
+description: >
+  DafnyBench problem: laboratory_tmp_tmps8ws6mu2_dafny-tutorial_exercise12.
+dafny_template: problems/laboratory_tmp_tmps8ws6mu2_dafny-tutorial_exercise/spec.template.dfy
+placeholder: "<<<BODY>>>"

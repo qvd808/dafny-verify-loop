@@ -1,0 +1,6 @@
+id: Clover_integer_square_root
+name: Clover_integer_square_root
+description: >
+  DafnyBench problem: Clover_integer_square_root.
+dafny_template: problems/Clover_integer_square_root/spec.template.dfy
+placeholder: "<<<BODY>>>"

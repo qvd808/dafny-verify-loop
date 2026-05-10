@@ -1,0 +1,6 @@
+id: FormalMethods_tmp_tmpvda2r3_o_dafny_Invariants_ex1
+name: FormalMethods_tmp_tmpvda2r3_o_dafny_Invariants_ex1
+description: >
+  DafnyBench problem: FormalMethods_tmp_tmpvda2r3_o_dafny_Invariants_ex1.
+dafny_template: problems/FormalMethods_tmp_tmpvda2r3_o_dafny_Invariants_ex1/spec.template.dfy
+placeholder: "<<<BODY>>>"

@@ -1,0 +1,6 @@
+id: Clover_double_array_elements
+name: Clover_double_array_elements
+description: >
+  DafnyBench problem: Clover_double_array_elements.
+dafny_template: problems/Clover_double_array_elements/spec.template.dfy
+placeholder: "<<<BODY>>>"

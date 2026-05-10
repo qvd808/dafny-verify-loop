@@ -1,0 +1,6 @@
+id: Clover_longest_prefix
+name: Clover_longest_prefix
+description: >
+  DafnyBench problem: Clover_longest_prefix.
+dafny_template: problems/Clover_longest_prefix/spec.template.dfy
+placeholder: "<<<BODY>>>"

@@ -1,0 +1,6 @@
+id: Dafny_Verify_tmp_tmphq7j0row_Fine_Tune_Examples_er
+name: Dafny_Verify_tmp_tmphq7j0row_Fine_Tune_Examples_error_data_completion_11
+description: >
+  DafnyBench problem: Dafny_Verify_tmp_tmphq7j0row_Fine_Tune_Examples_error_data_completion_11.
+dafny_template: problems/Dafny_Verify_tmp_tmphq7j0row_Fine_Tune_Examples_er/spec.template.dfy
+placeholder: "<<<BODY>>>"

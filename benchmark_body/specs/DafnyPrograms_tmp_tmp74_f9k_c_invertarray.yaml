@@ -1,0 +1,6 @@
+id: DafnyPrograms_tmp_tmp74_f9k_c_invertarray
+name: DafnyPrograms_tmp_tmp74_f9k_c_invertarray
+description: >
+  DafnyBench problem: DafnyPrograms_tmp_tmp74_f9k_c_invertarray.
+dafny_template: problems/DafnyPrograms_tmp_tmp74_f9k_c_invertarray/spec.template.dfy
+placeholder: "<<<BODY>>>"

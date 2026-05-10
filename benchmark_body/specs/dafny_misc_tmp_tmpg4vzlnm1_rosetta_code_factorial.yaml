@@ -1,0 +1,6 @@
+id: dafny_misc_tmp_tmpg4vzlnm1_rosetta_code_factorial
+name: dafny_misc_tmp_tmpg4vzlnm1_rosetta_code_factorial
+description: >
+  DafnyBench problem: dafny_misc_tmp_tmpg4vzlnm1_rosetta_code_factorial.
+dafny_template: problems/dafny_misc_tmp_tmpg4vzlnm1_rosetta_code_factorial/spec.template.dfy
+placeholder: "<<<BODY>>>"

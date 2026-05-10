@@ -1,0 +1,6 @@
+id: dafny_examples_tmp_tmp8qotd4ez_leetcode_0070-climb
+name: dafny_examples_tmp_tmp8qotd4ez_leetcode_0070-climbing-stairs
+description: >
+  DafnyBench problem: dafny_examples_tmp_tmp8qotd4ez_leetcode_0070-climbing-stairs.
+dafny_template: problems/dafny_examples_tmp_tmp8qotd4ez_leetcode_0070-climb/spec.template.dfy
+placeholder: "<<<BODY>>>"

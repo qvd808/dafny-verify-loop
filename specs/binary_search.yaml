@@ -1,0 +1,7 @@
+id: binary_search
+name: Binary search on sorted array
+description: >
+  Given a sorted array of ints and a target x, return an index where a[index]==x,
+  or -1 if no element equals x.
+dafny_template: problems/binary_search/spec.template.dfy
+placeholder: "<<<BODY>>>"

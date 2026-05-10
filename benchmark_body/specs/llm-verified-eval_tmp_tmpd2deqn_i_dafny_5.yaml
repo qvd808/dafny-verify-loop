@@ -1,0 +1,6 @@
+id: llm-verified-eval_tmp_tmpd2deqn_i_dafny_5
+name: llm-verified-eval_tmp_tmpd2deqn_i_dafny_5
+description: >
+  DafnyBench problem: llm-verified-eval_tmp_tmpd2deqn_i_dafny_5.
+dafny_template: problems/llm-verified-eval_tmp_tmpd2deqn_i_dafny_5/spec.template.dfy
+placeholder: "<<<BODY>>>"

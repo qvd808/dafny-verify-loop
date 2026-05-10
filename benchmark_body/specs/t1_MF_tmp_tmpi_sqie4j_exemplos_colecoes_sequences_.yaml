@@ -1,0 +1,6 @@
+id: t1_MF_tmp_tmpi_sqie4j_exemplos_colecoes_sequences_
+name: t1_MF_tmp_tmpi_sqie4j_exemplos_colecoes_sequences_ex3
+description: >
+  DafnyBench problem: t1_MF_tmp_tmpi_sqie4j_exemplos_colecoes_sequences_ex3.
+dafny_template: problems/t1_MF_tmp_tmpi_sqie4j_exemplos_colecoes_sequences_/spec.template.dfy
+placeholder: "<<<BODY>>>"

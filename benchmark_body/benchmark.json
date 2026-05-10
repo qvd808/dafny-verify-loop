@@ -1,0 +1,1088 @@
+[
+  {
+    "id": "Clover_all_digits",
+    "type": "linear_scan",
+    "source": "Clover_all_digits.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_array_append",
+    "type": "linear_scan",
+    "source": "Clover_array_append.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_array_concat",
+    "type": "linear_scan",
+    "source": "Clover_array_concat.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_array_copy",
+    "type": "linear_scan",
+    "source": "Clover_array_copy.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_array_product",
+    "type": "linear_scan",
+    "source": "Clover_array_product.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_array_sum",
+    "type": "linear_scan",
+    "source": "Clover_array_sum.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_below_zero",
+    "type": "nested_loop",
+    "source": "Clover_below_zero.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_binary_search",
+    "type": "binary_search",
+    "source": "Clover_binary_search.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_bubble_sort",
+    "type": "sorting",
+    "source": "Clover_bubble_sort.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_cal_ans",
+    "type": "linear_scan",
+    "source": "Clover_cal_ans.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_cal_sum",
+    "type": "linear_scan",
+    "source": "Clover_cal_sum.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_canyon_search",
+    "type": "linear_scan",
+    "source": "Clover_canyon_search.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_convert_map_key",
+    "type": "linear_scan",
+    "source": "Clover_convert_map_key.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_copy_part",
+    "type": "nested_loop",
+    "source": "Clover_copy_part.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_count_lessthan",
+    "type": "linear_scan",
+    "source": "Clover_count_lessthan.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_double_array_elements",
+    "type": "linear_scan",
+    "source": "Clover_double_array_elements.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_find",
+    "type": "linear_scan",
+    "source": "Clover_find.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_has_close_elements",
+    "type": "nested_loop",
+    "source": "Clover_has_close_elements.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_integer_square_root",
+    "type": "linear_scan",
+    "source": "Clover_integer_square_root.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_is_palindrome",
+    "type": "linear_scan",
+    "source": "Clover_is_palindrome.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_linear_search1",
+    "type": "linear_scan",
+    "source": "Clover_linear_search1.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_linear_search2",
+    "type": "linear_scan",
+    "source": "Clover_linear_search2.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_linear_search3",
+    "type": "linear_scan",
+    "source": "Clover_linear_search3.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_longest_prefix",
+    "type": "linear_scan",
+    "source": "Clover_longest_prefix.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_match",
+    "type": "linear_scan",
+    "source": "Clover_match.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_max_array",
+    "type": "linear_scan",
+    "source": "Clover_max_array.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_min_array",
+    "type": "linear_scan",
+    "source": "Clover_min_array.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_modify_2d_array",
+    "type": "linear_scan",
+    "source": "Clover_modify_2d_array.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_online_max",
+    "type": "nested_loop",
+    "source": "Clover_online_max.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_only_once",
+    "type": "linear_scan",
+    "source": "Clover_only_once.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_quotient",
+    "type": "linear_scan",
+    "source": "Clover_quotient.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_remove_front",
+    "type": "linear_scan",
+    "source": "Clover_remove_front.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_replace",
+    "type": "linear_scan",
+    "source": "Clover_replace.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_reverse",
+    "type": "linear_scan",
+    "source": "Clover_reverse.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_rotate",
+    "type": "linear_scan",
+    "source": "Clover_rotate.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_selectionsort",
+    "type": "sorting",
+    "source": "Clover_selectionsort.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_seq_to_array",
+    "type": "linear_scan",
+    "source": "Clover_seq_to_array.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_set_to_seq",
+    "type": "linear_scan",
+    "source": "Clover_set_to_seq.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_slope_search",
+    "type": "linear_scan",
+    "source": "Clover_slope_search.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_swap_in_array",
+    "type": "linear_scan",
+    "source": "Clover_swap_in_array.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_test_array",
+    "type": "linear_scan",
+    "source": "Clover_test_array.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_two_sum",
+    "type": "nested_loop",
+    "source": "Clover_two_sum.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_update_array",
+    "type": "linear_scan",
+    "source": "Clover_update_array.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Clover_update_map",
+    "type": "linear_scan",
+    "source": "Clover_update_map.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny-Exercises_tmp_tmpjm75muf__Session2Exercises_",
+    "type": "nested_loop",
+    "source": "Dafny-Exercises_tmp_tmpjm75muf__Session2Exercises_ExerciseSquare_root.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny-Exercises_tmp_tmpjm75muf__Session4Exercises_",
+    "type": "sorting",
+    "source": "Dafny-Exercises_tmp_tmpjm75muf__Session4Exercises_ExerciseContained.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny-Exercises_tmp_tmpjm75muf__Session4Exercises_",
+    "type": "linear_scan",
+    "source": "Dafny-Exercises_tmp_tmpjm75muf__Session4Exercises_ExercisefirstZero.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny-Projects_tmp_tmph399drhy_p2_arraySplit",
+    "type": "nested_loop",
+    "source": "Dafny-Projects_tmp_tmph399drhy_p2_arraySplit.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny-experiences_tmp_tmp150sm9qy_dafny_started_tu",
+    "type": "linear_scan",
+    "source": "Dafny-experiences_tmp_tmp150sm9qy_dafny_started_tutorial_dafny_tutorial_array.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "DafnyPrograms_tmp_tmp74_f9k_c_invertarray",
+    "type": "linear_scan",
+    "source": "DafnyPrograms_tmp_tmp74_f9k_c_invertarray.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "DafnyProjects_tmp_tmp2acw_s4s_findMax",
+    "type": "sorting",
+    "source": "DafnyProjects_tmp_tmp2acw_s4s_findMax.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "DafnyProjects_tmp_tmp2acw_s4s_partitionOddEven",
+    "type": "linear_scan",
+    "source": "DafnyProjects_tmp_tmp2acw_s4s_partitionOddEven.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny_Learning_Experience_tmp_tmpuxvcet_u_week8_12",
+    "type": "linear_scan",
+    "source": "Dafny_Learning_Experience_tmp_tmpuxvcet_u_week8_12_a3_search_findPositionOfIndex.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny_Learning_Experience_tmp_tmpuxvcet_u_week8_12",
+    "type": "linear_scan",
+    "source": "Dafny_Learning_Experience_tmp_tmpuxvcet_u_week8_12_week10_ExtensibleArray.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny_Verify_tmp_tmphq7j0row_AI_agent_verify_examp",
+    "type": "linear_scan",
+    "source": "Dafny_Verify_tmp_tmphq7j0row_AI_agent_verify_examples_ComputePower.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny_Verify_tmp_tmphq7j0row_AI_agent_verify_examp",
+    "type": "nested_loop",
+    "source": "Dafny_Verify_tmp_tmphq7j0row_AI_agent_verify_examples_CopyMatrix.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny_Verify_tmp_tmphq7j0row_AI_agent_verify_examp",
+    "type": "linear_scan",
+    "source": "Dafny_Verify_tmp_tmphq7j0row_AI_agent_verify_examples_Cube.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny_Verify_tmp_tmphq7j0row_AI_agent_verify_examp",
+    "type": "linear_scan",
+    "source": "Dafny_Verify_tmp_tmphq7j0row_AI_agent_verify_examples_DoubleArray.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny_Verify_tmp_tmphq7j0row_AI_agent_verify_examp",
+    "type": "nested_loop",
+    "source": "Dafny_Verify_tmp_tmphq7j0row_AI_agent_verify_examples_IncrementMatrix.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny_Verify_tmp_tmphq7j0row_AI_agent_verify_examp",
+    "type": "linear_scan",
+    "source": "Dafny_Verify_tmp_tmphq7j0row_AI_agent_verify_examples_RotateRight.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny_Verify_tmp_tmphq7j0row_Fine_Tune_Examples_50",
+    "type": "linear_scan",
+    "source": "Dafny_Verify_tmp_tmphq7j0row_Fine_Tune_Examples_50_examples_28.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny_Verify_tmp_tmphq7j0row_Fine_Tune_Examples_50",
+    "type": "linear_scan",
+    "source": "Dafny_Verify_tmp_tmphq7j0row_Fine_Tune_Examples_50_examples_37.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny_Verify_tmp_tmphq7j0row_Fine_Tune_Examples_50",
+    "type": "linear_scan",
+    "source": "Dafny_Verify_tmp_tmphq7j0row_Fine_Tune_Examples_50_examples_38.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny_Verify_tmp_tmphq7j0row_Fine_Tune_Examples_50",
+    "type": "linear_scan",
+    "source": "Dafny_Verify_tmp_tmphq7j0row_Fine_Tune_Examples_50_examples_41.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny_Verify_tmp_tmphq7j0row_Fine_Tune_Examples_50",
+    "type": "binary_search",
+    "source": "Dafny_Verify_tmp_tmphq7j0row_Fine_Tune_Examples_50_examples_BinarySearch.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny_Verify_tmp_tmphq7j0row_Fine_Tune_Examples_er",
+    "type": "linear_scan",
+    "source": "Dafny_Verify_tmp_tmphq7j0row_Fine_Tune_Examples_error_data_completion_07.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny_Verify_tmp_tmphq7j0row_Fine_Tune_Examples_er",
+    "type": "linear_scan",
+    "source": "Dafny_Verify_tmp_tmphq7j0row_Fine_Tune_Examples_error_data_completion_11.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny_Verify_tmp_tmphq7j0row_Generated_Code_Comput",
+    "type": "linear_scan",
+    "source": "Dafny_Verify_tmp_tmphq7j0row_Generated_Code_ComputePower.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny_Verify_tmp_tmphq7j0row_Generated_Code_Linear",
+    "type": "linear_scan",
+    "source": "Dafny_Verify_tmp_tmphq7j0row_Generated_Code_LinearSearch.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny_Verify_tmp_tmphq7j0row_Generated_Code_Minimu",
+    "type": "linear_scan",
+    "source": "Dafny_Verify_tmp_tmphq7j0row_Generated_Code_Minimum.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny_Verify_tmp_tmphq7j0row_Generated_Code_Mult",
+    "type": "linear_scan",
+    "source": "Dafny_Verify_tmp_tmphq7j0row_Generated_Code_Mult.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny_Verify_tmp_tmphq7j0row_Generated_Code_rand",
+    "type": "linear_scan",
+    "source": "Dafny_Verify_tmp_tmphq7j0row_Generated_Code_rand.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny_Verify_tmp_tmphq7j0row_Test_Cases_solved_1_s",
+    "type": "sorting",
+    "source": "Dafny_Verify_tmp_tmphq7j0row_Test_Cases_solved_1_select.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny_Verify_tmp_tmphq7j0row_dataset_C_convert_exa",
+    "type": "nested_loop",
+    "source": "Dafny_Verify_tmp_tmphq7j0row_dataset_C_convert_examples_07.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny_Verify_tmp_tmphq7j0row_dataset_C_convert_exa",
+    "type": "nested_loop",
+    "source": "Dafny_Verify_tmp_tmphq7j0row_dataset_C_convert_examples_11.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny_Verify_tmp_tmphq7j0row_dataset_C_convert_exa",
+    "type": "nested_loop",
+    "source": "Dafny_Verify_tmp_tmphq7j0row_dataset_C_convert_examples_23_x.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Dafny_Verify_tmp_tmphq7j0row_dataset_detailed_exam",
+    "type": "sorting",
+    "source": "Dafny_Verify_tmp_tmphq7j0row_dataset_detailed_examples_SelectionSort.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Final-Project-Dafny_tmp_tmpmcywuqox_Attempts_Exerc",
+    "type": "linear_scan",
+    "source": "Final-Project-Dafny_tmp_tmpmcywuqox_Attempts_Exercise3_Increment_Array.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Final-Project-Dafny_tmp_tmpmcywuqox_Attempts_Exerc",
+    "type": "binary_search",
+    "source": "Final-Project-Dafny_tmp_tmpmcywuqox_Attempts_Exercise6_Binary_Search.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Final-Project-Dafny_tmp_tmpmcywuqox_Attempts_Selec",
+    "type": "sorting",
+    "source": "Final-Project-Dafny_tmp_tmpmcywuqox_Attempts_Selection_Sort_Standard.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "FormalMethods_tmp_tmpvda2r3_o_dafny_Invariants_ex1",
+    "type": "linear_scan",
+    "source": "FormalMethods_tmp_tmpvda2r3_o_dafny_Invariants_ex1.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "HATRA-2022-Paper_tmp_tmp5texxy8l_copilot_verificat",
+    "type": "nested_loop",
+    "source": "HATRA-2022-Paper_tmp_tmp5texxy8l_copilot_verification_Two Sum_two_sum.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "M2_tmp_tmp2laaavvl_Software_Verification_Exercices",
+    "type": "linear_scan",
+    "source": "M2_tmp_tmp2laaavvl_Software Verification_Exercices_Exo4-CountAndReturn.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "M2_tmp_tmp2laaavvl_Software_Verification_Exercices",
+    "type": "linear_scan",
+    "source": "M2_tmp_tmp2laaavvl_Software Verification_Exercices_Exo9-Carre.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "MFS_tmp_tmpmmnu354t_Testes_anteriores_T2_ex5_2020_",
+    "type": "linear_scan",
+    "source": "MFS_tmp_tmpmmnu354t_Testes anteriores_T2_ex5_2020_2.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "MIEIC_mfes_tmp_tmpq3ho7nve_exams_appeal_20_p4",
+    "type": "linear_scan",
+    "source": "MIEIC_mfes_tmp_tmpq3ho7nve_exams_appeal_20_p4.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "MIEIC_mfes_tmp_tmpq3ho7nve_exams_mt2_19_p4",
+    "type": "linear_scan",
+    "source": "MIEIC_mfes_tmp_tmpq3ho7nve_exams_mt2_19_p4.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "MIEIC_mfes_tmp_tmpq3ho7nve_exams_mt2_19_p5",
+    "type": "linear_scan",
+    "source": "MIEIC_mfes_tmp_tmpq3ho7nve_exams_mt2_19_p5.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Metodos_Formais_tmp_tmpbez22nnn_Aula_2_ex1",
+    "type": "linear_scan",
+    "source": "Metodos_Formais_tmp_tmpbez22nnn_Aula_2_ex1.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Metodos_Formais_tmp_tmpql2hwcsh_Arrays_explicacao",
+    "type": "linear_scan",
+    "source": "Metodos_Formais_tmp_tmpql2hwcsh_Arrays_explicacao.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Metodos_Formais_tmp_tmpql2hwcsh_Invariantes_multip",
+    "type": "nested_loop",
+    "source": "Metodos_Formais_tmp_tmpql2hwcsh_Invariantes_multiplicador.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Prog-Fun-Solutions_tmp_tmp7_gmnz5f_extra_mod",
+    "type": "linear_scan",
+    "source": "Prog-Fun-Solutions_tmp_tmp7_gmnz5f_extra_mod.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Prog-Fun-Solutions_tmp_tmp7_gmnz5f_extra_mod2",
+    "type": "linear_scan",
+    "source": "Prog-Fun-Solutions_tmp_tmp7_gmnz5f_extra_mod2.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Prog-Fun-Solutions_tmp_tmp7_gmnz5f_extra_pow",
+    "type": "linear_scan",
+    "source": "Prog-Fun-Solutions_tmp_tmp7_gmnz5f_extra_pow.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Prog-Fun-Solutions_tmp_tmp7_gmnz5f_mockExam2_p5",
+    "type": "linear_scan",
+    "source": "Prog-Fun-Solutions_tmp_tmp7_gmnz5f_mockExam2_p5.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Prog-Fun-Solutions_tmp_tmp7_gmnz5f_mockExam2_p6",
+    "type": "linear_scan",
+    "source": "Prog-Fun-Solutions_tmp_tmp7_gmnz5f_mockExam2_p6.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Program-Verification-Dataset_tmp_tmpgbdrlnu__Dafny",
+    "type": "linear_scan",
+    "source": "Program-Verification-Dataset_tmp_tmpgbdrlnu__Dafny_advanced examples_demo.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Program-Verification-Dataset_tmp_tmpgbdrlnu__Dafny",
+    "type": "linear_scan",
+    "source": "Program-Verification-Dataset_tmp_tmpgbdrlnu__Dafny_algorithms and leetcode_leetcode_lc-remove-element.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Program-Verification-Dataset_tmp_tmpgbdrlnu__Dafny",
+    "type": "linear_scan",
+    "source": "Program-Verification-Dataset_tmp_tmpgbdrlnu__Dafny_from dafny main repo_dafny0_ModulePrint.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Program-Verification-Dataset_tmp_tmpgbdrlnu__Dafny",
+    "type": "linear_scan",
+    "source": "Program-Verification-Dataset_tmp_tmpgbdrlnu__Dafny_verified algorithms_inductive_props.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "SENG2011_tmp_tmpgk5jq85q_exam_ex2",
+    "type": "nested_loop",
+    "source": "SENG2011_tmp_tmpgk5jq85q_exam_ex2.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "SENG2011_tmp_tmpgk5jq85q_exam_ex3",
+    "type": "linear_scan",
+    "source": "SENG2011_tmp_tmpgk5jq85q_exam_ex3.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "SENG2011_tmp_tmpgk5jq85q_flex_ex5",
+    "type": "linear_scan",
+    "source": "SENG2011_tmp_tmpgk5jq85q_flex_ex5.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Software-Verification_tmp_tmpv4ueky2d_Best_Time_to",
+    "type": "linear_scan",
+    "source": "Software-Verification_tmp_tmpv4ueky2d_Best Time to Buy and Sell Stock_best_time_to_buy_and_sell_stock.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Software-Verification_tmp_tmpv4ueky2d_Contains_Dup",
+    "type": "linear_scan",
+    "source": "Software-Verification_tmp_tmpv4ueky2d_Contains Duplicate_contains_duplicate.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Software-Verification_tmp_tmpv4ueky2d_Counting_Bit",
+    "type": "linear_scan",
+    "source": "Software-Verification_tmp_tmpv4ueky2d_Counting Bits_counting_bits.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Software-Verification_tmp_tmpv4ueky2d_Remove_Eleme",
+    "type": "linear_scan",
+    "source": "Software-Verification_tmp_tmpv4ueky2d_Remove Element_remove_element.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Software-Verification_tmp_tmpv4ueky2d_Valid_Palind",
+    "type": "linear_scan",
+    "source": "Software-Verification_tmp_tmpv4ueky2d_Valid Palindrome_valid_panlindrome.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "Workshop_tmp_tmp0cu11bdq_Workshop_Answers_Question",
+    "type": "linear_scan",
+    "source": "Workshop_tmp_tmp0cu11bdq_Workshop_Answers_Question6.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafleet_tmp_tmpa2e4kb9v_0001-0050_0001-two-sum",
+    "type": "linear_scan",
+    "source": "dafleet_tmp_tmpa2e4kb9v_0001-0050_0001-two-sum.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-duck_tmp_tmplawbgxjo_p1",
+    "type": "linear_scan",
+    "source": "dafny-duck_tmp_tmplawbgxjo_p1.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-duck_tmp_tmplawbgxjo_p2",
+    "type": "linear_scan",
+    "source": "dafny-duck_tmp_tmplawbgxjo_p2.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-exercise_tmp_tmpouftptir_appendArray",
+    "type": "nested_loop",
+    "source": "dafny-exercise_tmp_tmpouftptir_appendArray.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-exercise_tmp_tmpouftptir_firstE",
+    "type": "linear_scan",
+    "source": "dafny-exercise_tmp_tmpouftptir_firstE.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-exercise_tmp_tmpouftptir_maxArray",
+    "type": "linear_scan",
+    "source": "dafny-exercise_tmp_tmpouftptir_maxArray.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-language-server_tmp_tmpkir0kenl_Test_allocat",
+    "type": "linear_scan",
+    "source": "dafny-language-server_tmp_tmpkir0kenl_Test_allocated1_dafny0_fun-with-slices.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-language-server_tmp_tmpkir0kenl_Test_dafny1_",
+    "type": "linear_scan",
+    "source": "dafny-language-server_tmp_tmpkir0kenl_Test_dafny1_Cubes.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_126",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_126.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_145",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_145.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_18",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_18.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_230",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_230.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_238",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_238.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_240",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_240.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_251",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_251.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_261",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_261.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_267",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_267.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_273",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_273.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_290",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_290.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_3",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_3.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_307",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_307.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_310",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_310.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_399",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_399.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_401",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_401.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_414",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_414.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_424",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_424.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_445",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_445.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_447",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_447.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_454",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_454.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_457",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_457.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_460",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_460.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_472",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_472.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_474",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_474.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_555",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_555.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_565",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_565.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_567",
+    "type": "sorting",
+    "source": "dafny-synthesis_task_id_567.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_578",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_578.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_599",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_599.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_602",
+    "type": "nested_loop",
+    "source": "dafny-synthesis_task_id_602.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_603",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_603.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_605",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_605.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_610",
+    "type": "nested_loop",
+    "source": "dafny-synthesis_task_id_610.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_618",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_618.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_62",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_62.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_625",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_625.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_627",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_627.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_69",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_69.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_70",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_70.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_728",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_728.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_741",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_741.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_743",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_743.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_750",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_750.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_759",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_759.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_769",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_769.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_770",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_770.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_793",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_793.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_8",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_8.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_803",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_803.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_808",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_808.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_809",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_809.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny-synthesis_task_id_95",
+    "type": "linear_scan",
+    "source": "dafny-synthesis_task_id_95.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny_examples_tmp_tmp8qotd4ez_leetcode_0001-two-s",
+    "type": "linear_scan",
+    "source": "dafny_examples_tmp_tmp8qotd4ez_leetcode_0001-two-sum.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny_examples_tmp_tmp8qotd4ez_leetcode_0070-climb",
+    "type": "linear_scan",
+    "source": "dafny_examples_tmp_tmp8qotd4ez_leetcode_0070-climbing-stairs.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny_misc_tmp_tmpg4vzlnm1_rosetta_code_factorial",
+    "type": "linear_scan",
+    "source": "dafny_misc_tmp_tmpg4vzlnm1_rosetta_code_factorial.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "dafny_misc_tmp_tmpg4vzlnm1_rosetta_code_fibonacci_",
+    "type": "recursive",
+    "source": "dafny_misc_tmp_tmpg4vzlnm1_rosetta_code_fibonacci_sequence.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "laboratory_tmp_tmps8ws6mu2_dafny-tutorial_exercise",
+    "type": "linear_scan",
+    "source": "laboratory_tmp_tmps8ws6mu2_dafny-tutorial_exercise12.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "llm-verified-eval_tmp_tmpd2deqn_i_dafny_5",
+    "type": "linear_scan",
+    "source": "llm-verified-eval_tmp_tmpd2deqn_i_dafny_5.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "metodosFormais_tmp_tmp4q2kmya4_T1-MetodosFormais_e",
+    "type": "linear_scan",
+    "source": "metodosFormais_tmp_tmp4q2kmya4_T1-MetodosFormais_examples_ex1.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "se2011_tmp_tmp71eb82zt_ass1_ex4",
+    "type": "linear_scan",
+    "source": "se2011_tmp_tmp71eb82zt_ass1_ex4.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "t1_MF_tmp_tmpi_sqie4j_exemplos_colecoes_arrays_ex5",
+    "type": "linear_scan",
+    "source": "t1_MF_tmp_tmpi_sqie4j_exemplos_colecoes_arrays_ex5.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "t1_MF_tmp_tmpi_sqie4j_exemplos_colecoes_sequences_",
+    "type": "linear_scan",
+    "source": "t1_MF_tmp_tmpi_sqie4j_exemplos_colecoes_sequences_ex3.dfy",
+    "has_loop": true
+  },
+  {
+    "id": "tangent-finder_tmp_tmpgyzf44ve_circles",
+    "type": "nested_loop",
+    "source": "tangent-finder_tmp_tmpgyzf44ve_circles.dfy",
+    "has_loop": true
+  }
+]

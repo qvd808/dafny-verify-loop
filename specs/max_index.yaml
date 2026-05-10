@@ -1,0 +1,6 @@
+id: max_index
+name: Maximum element index
+description: >
+  Non-empty array; return an index i such that a[i] is >= every other element.
+dafny_template: problems/max_index/spec.template.dfy
+placeholder: "<<<BODY>>>"

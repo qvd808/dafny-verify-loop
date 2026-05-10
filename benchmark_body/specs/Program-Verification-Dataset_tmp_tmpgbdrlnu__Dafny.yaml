@@ -1,0 +1,6 @@
+id: Program-Verification-Dataset_tmp_tmpgbdrlnu__Dafny
+name: Program-Verification-Dataset_tmp_tmpgbdrlnu__Dafny_verified algorithms_inductive
+description: >
+  DafnyBench problem: Program-Verification-Dataset_tmp_tmpgbdrlnu__Dafny_verified algorithms_inductive_props.
+dafny_template: problems/Program-Verification-Dataset_tmp_tmpgbdrlnu__Dafny/spec.template.dfy
+placeholder: "<<<BODY>>>"

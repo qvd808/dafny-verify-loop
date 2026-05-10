@@ -1,0 +1,6 @@
+id: Clover_set_to_seq
+name: Clover_set_to_seq
+description: >
+  DafnyBench problem: Clover_set_to_seq.
+dafny_template: problems/Clover_set_to_seq/spec.template.dfy
+placeholder: "<<<BODY>>>"
