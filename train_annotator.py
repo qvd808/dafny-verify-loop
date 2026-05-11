@@ -65,11 +65,18 @@ def prepare_dataset(
 
     Uses the model's native chat template so training format matches inference exactly.
     """
-    from datasets import load_dataset
+    from datasets import load_dataset, get_dataset_split_names
     from transformers import AutoTokenizer
 
     print(f"Loading dataset: {dataset_name}")
-    ds = load_dataset(dataset_name, split="train", trust_remote_code=True)
+    # DafnyBench only has "test" split — auto-detect available split
+    try:
+        splits = get_dataset_split_names(dataset_name)
+    except Exception:
+        splits = ["test"]
+    print(f"Available splits: {splits}")
+    split = "test" if "test" in splits else splits[0]
+    ds = load_dataset(dataset_name, split=split)
 
     print(f"Total examples: {len(ds)}")
     print(f"Fields: {ds.column_names}")
@@ -97,7 +104,7 @@ def prepare_dataset(
 
     # Load tokenizer for the target model to get correct chat format
     print(f"Loading tokenizer: {model_name}")
-    tok = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
+    tok = AutoTokenizer.from_pretrained(model_name)
     print(f"Chat template type: {'Alpaca' if 'Instruction' in (tok.chat_template or '') else 'ChatML' if 'im_start' in (tok.chat_template or '') else 'Llama3' if 'start_header' in (tok.chat_template or '') else 'DeepSeek V2' if 'Assistant' in (tok.chat_template or '') else 'unknown'}")
 
     def format_example(example):
@@ -127,17 +134,26 @@ def prepare_dataset(
           f"(dropped {len(ds) - len(filtered)})")
 
     output_dir.mkdir(parents=True, exist_ok=True)
-    out_path = output_dir / "train.jsonl"
-    filtered.to_json(str(out_path))
-    print(f"Saved to {out_path}")
+    
+    # Split 80/20 for train/eval (DafnyBench has no train split)
+    split_ds = filtered.train_test_split(test_size=0.2, seed=3407)
+    train_path = output_dir / "train.jsonl"
+    eval_path = output_dir / "eval.jsonl"
+    split_ds["train"].to_json(str(train_path))
+    split_ds["test"].to_json(str(eval_path))
+    print(f"Train: {len(split_ds['train'])} examples → {train_path}")
+    print(f"Eval:  {len(split_ds['test'])} examples → {eval_path}")
 
     # Save metadata
     meta = {
         "dataset": dataset_name,
+        "split_used": split,
         "hint_column": hint_col,
         "truth_column": truth_col,
         "total_examples": len(ds),
         "filtered_examples": len(filtered),
+        "train_examples": len(split_ds["train"]),
+        "eval_examples": len(split_ds["test"]),
         "max_seq_length": max_seq_length,
         "prompt_template": "Llama-3.1 chat (system + user + assistant)",
     }
