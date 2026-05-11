@@ -22,3 +22,5 @@ benchmark/rag_vs_baseline.json
 # Training artifacts
 training_data/
 dafny_annotator_lora/
+Fine_tune_model.ipynb
+benchmark/results.json
