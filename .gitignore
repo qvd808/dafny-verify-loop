@@ -5,3 +5,18 @@ __pycache__/
 *.egg-info/
 dist/
 out/
+
+# RAG indices (large binaries, rebuildable)
+rag_index/*.faiss
+rag_index/*.npy
+
+# Notebook outputs
+*.ipynb_checkpoints/
+
+# Benchmark results (generated)
+benchmark/*_results.json
+benchmark/rag_vs_baseline.json
+
+# Training artifacts
+training_data/
+dafny_annotator_lora/

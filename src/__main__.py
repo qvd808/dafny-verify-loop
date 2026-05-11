@@ -7,6 +7,7 @@ import sys
 from pathlib import Path
 
 from .pipeline import project_root, run_pipeline
+from .rag_pipeline import run_rag_pipeline
 from .providers import provider_chain
 
 
@@ -64,6 +65,11 @@ def main() -> None:
         help="Print each pipeline stage output to stderr",
     )
     run_p.add_argument(
+        "--rag",
+        action="store_true",
+        help="Enable RAG retrieval for few-shot examples",
+    )
+    run_p.add_argument(
         "--skip-analysis",
         action="store_true",
         help="Skip the initial spec analysis phase",
@@ -105,15 +111,25 @@ def main() -> None:
             print(f"Error: spec file not found: {spec_path}", file=sys.stderr)
             sys.exit(1)
 
-        ok, source, ver_out = run_pipeline(
-            spec_path,
-            max_iters=args.max_iters,
-            use_golden=args.golden,
-            llm_task=args.llm_task,
-            verbose=args.verbose,
-            skip_analysis=args.skip_analysis,
-            mode=args.mode,
-        )
+        if getattr(args, 'rag', False):
+            ok, source, ver_out = run_rag_pipeline(
+                spec_path,
+                max_iters=args.max_iters,
+                use_golden=args.golden,
+                llm_task=args.llm_task,
+                verbose=args.verbose,
+                skip_analysis=args.skip_analysis,
+            )
+        else:
+            ok, source, ver_out = run_pipeline(
+                spec_path,
+                max_iters=args.max_iters,
+                use_golden=args.golden,
+                llm_task=args.llm_task,
+                verbose=args.verbose,
+                skip_analysis=args.skip_analysis,
+                mode=args.mode,
+            )
 
         print(ver_out)
         if ok:
@@ -129,3 +145,9 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+# Append to main() — add --rag flag to run subcommand
+# This is a patch to add RAG support
+import sys as _sys
+from pathlib import Path as _Path
+from .rag_pipeline import run_rag_pipeline as _run_rag_pipeline
