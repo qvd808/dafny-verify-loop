@@ -7,6 +7,8 @@ dist/
 out/
 
 # RAG indices (large binaries, rebuildable)
+rag_index/documents.json
+rag_index/metadata.json
 rag_index/*.faiss
 rag_index/*.npy
 

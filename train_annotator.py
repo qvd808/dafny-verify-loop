@@ -58,7 +58,7 @@ Add the missing annotations. Output the COMPLETE program with annotations.
 def prepare_dataset(
     dataset_name: str,
     output_dir: Path,
-    model_name: str = "unsloth/deepseek-coder-7b-instruct-v1.5-bnb-4bit",
+    model_name: str = "deepseek-ai/deepseek-coder-7b-instruct-v1.5",
     max_seq_length: int = 2048,
 ):
     """Download DafnyBench, format as instruction-tuning data, filter by length.
@@ -361,7 +361,7 @@ def main():
         help="HuggingFace dataset name"
     )
     parser.add_argument(
-        "--model", default="unsloth/deepseek-coder-7b-instruct-v1.5-bnb-4bit",
+        "--model", default="deepseek-ai/deepseek-coder-7b-instruct-v1.5",
         help="Base model for fine-tuning (Paper 2 used Llama-3.1-8B, we recommend DeepSeek-Coder-7B)"
     )
     parser.add_argument(

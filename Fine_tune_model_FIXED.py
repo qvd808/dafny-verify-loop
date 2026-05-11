@@ -24,7 +24,7 @@ os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
 
 # Paper 2 uses Llama-3.1-8B-Instruct — standard instruct model, NOT a reasoning model
 model, tokenizer = FastLanguageModel.from_pretrained(
-    model_name="unsloth/deepseek-coder-7b-instruct-v1.5-bnb-4bit",
+    model_name="deepseek-ai/deepseek-coder-7b-instruct-v1.5",
     max_seq_length=2048,
     dtype=torch.float16,
     load_in_4bit=True,
