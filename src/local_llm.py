@@ -87,8 +87,18 @@ class LocalLLMAdapter:
 
         input_len = inputs["input_ids"].shape[1]
         generated_ids = outputs[0][input_len:]
-        generated_text = self.tokenizer.decode(generated_ids, skip_special_tokens=True)
-        return generated_text
+        # Don't skip_special_tokens — SentencePiece models (DeepSeek-Coder)
+        # encode spaces as special tokens (▁), which get stripped otherwise,
+        # producing "methodAbs" instead of "method Abs".
+        generated_text = self.tokenizer.decode(generated_ids, skip_special_tokens=False)
+        # Manually strip only the EOS token and padding
+        eos = self.tokenizer.eos_token
+        if eos and generated_text.endswith(eos):
+            generated_text = generated_text[:-len(eos)]
+        # Also strip common EOS variants
+        for eos_variant in ["</s>", "<｜end▁of▁sentence｜>", "<|endoftext|>"]:
+            generated_text = generated_text.replace(eos_variant, "")
+        return generated_text.strip()
 
     @staticmethod
     def _clean_output(text: str) -> str:
